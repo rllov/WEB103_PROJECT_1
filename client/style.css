@@ -113,6 +113,7 @@
 .card:hover {
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
   border-color: #bdbdbd;
+  transform: scale(1.25); /* Scales the element to 125% of its original size */
 }
 
 /* Card image area */

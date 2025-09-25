@@ -4,10 +4,6 @@ const heroesData = [
     name: "Ana",
     icon: "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3429c394716364bbef802180e9763d04812757c205e1b4568bc321772096ed86.png",
     type: "Support",
-
-    ability1:
-      "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fc/Ability-ana1.png/revision/latest/scale-to-width-down/100?cb=20181119020608",
-
     description:
       "Former second in command of Overwatch, Ana Amari uses her skills and expertise to defend her home and the people she cares for.",
     health: 200,
