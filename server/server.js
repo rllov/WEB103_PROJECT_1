@@ -2,6 +2,7 @@ import express from "express";
 import heroesRouter from "./routes/Heroes.js";
 import path from "path";
 import { fileURLToPath } from "url";
+import "./config/dotenv.js";
 
 const app = express();
 
